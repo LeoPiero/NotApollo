@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NotApolloCore",
+    "\\NotApolloCore\\Models",
+    "\\NotApolloCore\\Views\\Shared",
+    "\\NotApolloCore\\wwwroot\\css",
+    "\\NotApolloCore\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\NotApolloCore\\Models\\ErrorViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
